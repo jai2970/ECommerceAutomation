@@ -1,0 +1,15 @@
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\bin\Debug\net9.0\selenium-manager\linux\selenium-manager
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\bin\Debug\net9.0\selenium-manager\macos\selenium-manager
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\bin\Debug\net9.0\Drivers.deps.json
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\bin\Debug\net9.0\Drivers.dll
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\bin\Debug\net9.0\Drivers.pdb
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\Drivers.csproj.AssemblyReference.cache
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\Drivers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\Drivers.AssemblyInfoInputs.cache
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\Drivers.AssemblyInfo.cs
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\Drivers.csproj.CoreCompileInputs.cache
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\Drivers.dll
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\refint\Drivers.dll
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\Drivers.pdb
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Drivers\obj\Debug\net9.0\ref\Drivers.dll

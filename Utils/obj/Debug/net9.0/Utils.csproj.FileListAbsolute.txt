@@ -1,0 +1,11 @@
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\bin\Debug\net9.0\Utils.deps.json
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\bin\Debug\net9.0\Utils.dll
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\bin\Debug\net9.0\Utils.pdb
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\Utils.AssemblyInfoInputs.cache
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\Utils.AssemblyInfo.cs
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\Utils.dll
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\refint\Utils.dll
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\Utils.pdb
+C:\Users\HP\CSharpPractice\ECommerceAutomation\Utils\obj\Debug\net9.0\ref\Utils.dll
